@@ -1,88 +1,81 @@
-<!-- TEPADAGI NEON USLUBIDAGI DINAMIK BANNER (ANIMATSIYA BILAN) -->
+<!-- PREMIUM MINIMAL BANNER (WAVING ANIMATION) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00f2fe&text=Said%20Abror%20Yusupov&animation=waving&fontSize=45&fontAlignY=40&fontColor=ffffff&height=150" alt="Said Abror Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&text=Said%20Abror%20Yusupov&animation=twinkling&fontSize=40&fontAlignY=30&fontColor=00f2fe&height=160" alt="Said Abror Banner" />
 </p>
 
-<!-- JONLI YOZUV ANIMATSIYASI -->
+<!-- MATCHING CYAN TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&height=50&lines=Passionate+Junior+Developer;Crafting+Clean+Solutions;UI/UX+Enthusiast;Welcome+to+my+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&height=50&lines=Junior+Frontend+Developer;Crafting+Clean+%26+Modern+Web;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B5d2hxbm95bTh5cXl3MzdjN2M5M3ptamNpcDZ1amxpdDR4N2N1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="180" alt="Coding GIF">
-</p>
+<br/>
 
 ---
 
 ## 🚀 About Me
 
 - 👋 Hello! I am **Said Abror Yusupov**.
-- 💻 I am a passionate **Junior Developer** specializing in Frontend technologies.
-- 🎨 With a strong knowledge of **UI/UX design** and a keen eye for aesthetics.
-- 🎯 My goal is to build responsive, user-friendly, and visually appealing web applications that solve real-world problems.
-- 📚 Currently focused on deepening my expertise in modern Frontend frameworks.
+- 💻 I am a passionate **Junior Developer** specializing in building clean and modern Frontend interfaces.
+- 🎨 Deeply interested in **UI/UX design**, ensuring digital products are both beautiful and functional.
+- 🎯 My focus is on writing structured code and creating seamless user experiences.
+- 📚 Continuously exploring modern methodologies to level up my engineering workflow.
 
 ---
 
-## 🛠 My Tech Stack
+## 🛠 Tech Stack & Tools
 
-These are the main technologies, tools, and platforms I actively use in my projects.
+A curated list of technologies and platforms that I actively use in my development ecosystem:
 
-### Core Development
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Tech Stack" />
-  </a>
-</p>
-
-### Version Control & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode" alt="Tools" />
-  </a>
-</p>
-
-### Design
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Design Tool" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Stack" />
+      <br/><br/><b>Frontend</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control" />
+      <br/><br/><b>DevOps / Git</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=figma,vscode" alt="Design & IDE" />
+      <br/><br/><b>Design & Tools</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 GitHub Metrics
+## 📊 GitHub Analytics
 
-*Here is my live coding activity and statistics from GitHub:*
-
+<!-- MATCHED THEME (TOKYONIGHT / DARK CONTRAST) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" alt="Said Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&border_radius=8&count_private=true" alt="Said Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&border_radius=8" alt="Top Languages" />
 </p>
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Connect With Me
 
-Feel free to reach out if you have any questions, want to collaborate, or just talk about tech!
+Let's collaborate or build something amazing together:
 
 <p align="left">
   <a href="https://t.me/ksimov_hp" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-1D242E?style=for-the-badge&logo=telegram&logoColor=00F2FE" alt="Telegram" />
   </a>
   <a href="https://instagram.com/ksimov.19" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-1D242E?style=for-the-badge&logo=instagram&logoColor=00F2FE" alt="Instagram" />
   </a>
   <a href="mailto:saidabroryusupov08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-1D242E?style=for-the-badge&logo=gmail&logoColor=00F2FE" alt="Email" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>Crafted with passion by Said Abror Yusupov ✨</sub>
+  <sub>Designed with precision by Said Abror Yusupov • 2026</sub>
 </p>
