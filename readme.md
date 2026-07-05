@@ -45,7 +45,7 @@ A curated list of technologies and platforms that I actively use in my developme
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <!-- MATCHED THEME (TOKYONIGHT / DARK CONTRAST) -->
 <p align="center">
@@ -58,7 +58,7 @@ A curated list of technologies and platforms that I actively use in my developme
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 Let's collaborate or build something amazing together:
 
