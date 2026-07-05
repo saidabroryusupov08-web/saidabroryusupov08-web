@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠 Tech Stack & Tools
+##  Tech Stack & Tools
 
 A curated list of technologies and platforms that I actively use in my development ecosystem:
 
