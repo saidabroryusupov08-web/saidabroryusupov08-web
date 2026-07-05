@@ -1,80 +1,73 @@
-<!-- TOP NEON STYLE BANNER -->
+<!-- TEPADAGI NEON USLUBIDAGI DINAMIK BANNER (ANIMATSIYA BILAN) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00f2fe&text=Said%20Abror%20Yusupov&animation=twinkling&fontSize=40&fontAlignY=45&fontColor=ffffff" alt="Said Abror Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00f2fe&text=Said%20Abror%20Yusupov&animation=waving&fontSize=45&fontAlignY=40&fontColor=ffffff&height=150" alt="Said Abror Banner" />
 </p>
 
-<!-- LIVE TYPING ANIMATION -->
+<!-- JONLI YOZUV ANIMATSIYASI -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Junior+Frontend+Developer;Creative+Problem+Solver;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&height=50&lines=Passionate+Junior+Developer;Crafting+Clean+Solutions;UI/UX+Enthusiast;Welcome+to+my+Profile!" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHo2cTl0d3Eyd3d1M3BvMnN5M3d4cTR2aWZ0dzNiaWZ0dzNiaWZ0dzZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZVik7pBtu9RlwhD8ks/giphy.gif" width="140" alt="Developer GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B5d2hxbm95bTh5cXl3MzdjN2M5M3ptamNpcDZ1amxpdDR4N2N1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="180" alt="Coding GIF">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-*   👋 Hello! I am **Said Abror Yusupov**.
-*   💻 I am a passionate **Junior Developer** focused on building clean, modern, and user-friendly web applications.
-*   🎯 Currently, I am sharpening my skills in Frontend engineering and actively working on practical projects.
-*   ⚡ Beyond writing code, I love exploring modern UI/UX design architectures and finding creative solutions to technical challenges.
+- 👋 Hello! I am **Said Abror Yusupov**.
+- 💻 I am a passionate **Junior Developer** specializing in Frontend technologies.
+- 🎨 With a strong knowledge of **UI/UX design** and a keen eye for aesthetics.
+- 🎯 My goal is to build responsive, user-friendly, and visually appealing web applications that solve real-world problems.
+- 📚 Currently focused on deepening my expertise in modern Frontend frameworks.
 
 ---
 
-## 🛠 Tech Stack & Tools (Skills)
+## 🛠 My Tech Stack
 
-These are the core technologies, tools, and platforms I actively use in my development workflow:
+These are the main technologies, tools, and platforms I actively use in my projects.
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css" width="45" height="45" alt="Core" />
-      </a>
-      <br /><b>Web Core</b>
-    </td>
-    <td align="center" width="120">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,react" width="45" height="45" alt="JavaScript & React" />
-      </a>
-      <br /><b>JS / React</b>
-    </td>
-    <td align="center" width="120">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,gitlab" width="45" height="45" alt="Version Control" />
-      </a>
-      <br /><b>Git & DevOps</b>
-    </td>
-    <td align="center" width="120">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=figma,vscode" width="45" height="45" alt="Design & Tools" />
-      </a>
-      <br /><b>Design & Tools</b>
-    </td>
-  </tr>
-</table>
+### Core Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Tech Stack" />
+  </a>
+</p>
+
+### Version Control & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode" alt="Tools" />
+  </a>
+</p>
+
+### Design
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Design Tool" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Metrics
+## 📈 GitHub Metrics
 
-*Note: Replace the placeholders to view your real-time analytics.*
+*Here is my live coding activity and statistics from GitHub:*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Said Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" alt="Said Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🤝 Connect with Me
 
-Feel free to reach out if you want to collaborate on a project, ask a question, or just talk tech:
+Feel free to reach out if you have any questions, want to collaborate, or just talk about tech!
 
 <p align="left">
   <a href="https://t.me/ksimov_hp" target="_blank">
