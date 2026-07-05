@@ -12,13 +12,13 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 👋 Hello! I am **Said Abror Yusupov**.
-- 💻 I am a passionate **Junior Developer** specializing in building clean and modern Frontend interfaces.
-- 🎨 Deeply interested in **UI/UX design**, ensuring digital products are both beautiful and functional.
-- 🎯 My focus is on writing structured code and creating seamless user experiences.
-- 📚 Continuously exploring modern methodologies to level up my engineering workflow.
+-  Hello! I am **Said Abror Yusupov**.
+-  I am a passionate **Junior Developer** specializing in building clean and modern Frontend interfaces.
+-  Deeply interested in **UI/UX design**, ensuring digital products are both beautiful and functional.
+-  My focus is on writing structured code and creating seamless user experiences.
+-  Continuously exploring modern methodologies to level up my engineering workflow.
 
 ---
 
